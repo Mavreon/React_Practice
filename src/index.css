@@ -12,5 +12,6 @@ html {
 body {
   margin: 0;
   background-color: #1f1f1f;
+  position: relative;
 }
 

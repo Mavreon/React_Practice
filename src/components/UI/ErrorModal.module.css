@@ -20,6 +20,7 @@
   .header {
     background: #4f005f;
     padding: 1rem;
+    border-radius: 10px;
   }
   
   .header h2 {
